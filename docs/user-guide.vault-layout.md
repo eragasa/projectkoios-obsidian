@@ -16,7 +16,7 @@ From the repository root:
 python -m pip install -e .
 ```
 
-The package requires Python 3.12 or later.
+The package requires Python 3.14 or later.
 
 ## Create a layout manifest
 
