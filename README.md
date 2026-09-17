@@ -8,4 +8,4 @@ hardcoding a user's vault path or directory conventions.
 - [Vault layout architecture](docs/architecture.vault-layout.md)
 - [Vault layout user guide](docs/user-guide.vault-layout.md)
 
-Routing and role split live in `projectkoios-bootstrap/docs/agent-charter.md`.
+Repository routing is documented in `projectkoios-bootstrap/maps/repositories.md`.
